@@ -1,5 +1,4 @@
 # README
-About Section
 
 <h3>Front end devloper | MERN • Python • java</h3>
 
@@ -21,11 +20,11 @@ About Section
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/pankaj">
+  <a href="">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/users/pankaj">
+  <a href="">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
 
@@ -92,14 +91,5 @@ About Section
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=pankajkumar751&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
----
 
 ## ❤️ Support Me
-##  LH44
