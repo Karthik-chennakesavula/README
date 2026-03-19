@@ -29,15 +29,15 @@ About Section
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://github.com/pankaj">
+  <a href="https://github.com/Karthik-chennakesavula">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/doucerblaze?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+  <a href="https://www.instagram.com/karthik_naidu_006/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/tiruvarangam-pankaj-kumar-53320a34a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/karthiknaiduchennakesavula/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
