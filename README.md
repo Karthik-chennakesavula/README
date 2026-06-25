@@ -6,15 +6,16 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a front end developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    👋 Hi, I'm Karthik.
+    🎓 3rd Year CSE Student
+    💻 Full Stack Developer | Java & DSA Learner
+    🤖 AI & Automation Enthusiast
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:karthikchennakesavula06@gmail.com"><img src="https://img.shields.io/badge/📧_karthikchennakesavula06@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Doucerblaze_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
@@ -44,7 +45,7 @@
 </p>
 
 
-  <img src="https://komarev.com/ghpvc/?username=pankaj&style=flat-square&color=blue" alt="Profile Visit"/>
+ 
 </div>
 
 <br clear="all" />
